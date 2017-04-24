@@ -1,0 +1,12 @@
+/* Styling */
+@import url('https://fonts.googleapis.com/css?family=Fredoka+One');
+
+body {
+    background: rgb(171, 222, 220);}
+
+h2 {
+  color: #a10022;
+  font-size: 3em;
+  text-transform: uppercase;
+  text-align: center;
+  font-family: 'Fredoka One', cursive;}
